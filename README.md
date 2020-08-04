@@ -1,7 +1,7 @@
 # office_administration_project
 
 
-admin : abc@gmail.com
+admin : XYZ@gmail.com
 pwd : 12345
 
 
